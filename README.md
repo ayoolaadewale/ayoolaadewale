@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ayoolaadewale
-- 👀 I’m interested in Ruby Javascript Java and Python
+- 👋 Hi, I’m Ayoola Adewale
+- 👀 I’m interested in Ruby Javascript Java Devops and Python
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on back end projects
 - 📫 How to reach me... email ayooladewale@yahoo.com
