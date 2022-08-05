@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayoola Adewale
 - 👀 I’m interested in Ruby Javascript Java Devops and Python
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on back end projects
+- 💞️ I’m looking to build amazing products
 - 📫 How to reach me... email ayooladewale@yahoo.com
 
 <!---
